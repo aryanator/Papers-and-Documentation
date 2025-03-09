@@ -1,7 +1,3 @@
-Here's a more professional and well-formatted **README.md** file for your GitHub repository:  
-
----
-
 # 📄 Papers and Documentation  
 
 This repository contains research papers along with their corresponding code implementations.  
@@ -17,7 +13,3 @@ This repository contains research papers along with their corresponding code imp
 | **Traffic Light Optimization using DQN** | [Reinforcement Learning: Traffic Light Optimization using DQL](https://github.com/aryanator/Reinforcement-Learning_Traffic-Light-Optimization-using-DQL) |  
 | **Visualizing Student Dropout Rate** | [Predict Student Dropout Data Visualization](https://github.com/aryanator/Predict-Student-Dropout-Data-Visualization) |  
 | **SwiftSpatioFlow: A Novel Approach to HAR** | [Swift-Spatio-Flow](https://github.com/aryanator/Swift-Spatio-Flow-Novel-approach-to-HAR) |  
-
----  
-
-This formatting improves readability and professionalism, making it easy to navigate. Let me know if you'd like any modifications! 🚀# Papers-and-Documentation
